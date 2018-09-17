@@ -1,4 +1,4 @@
-1. Create a Java Project and name it as a Calculator as shown below
+1. Create a Java Project and name it as a CalculatorJavaFX as shown below
 ![CreateProject](Capture.JPG)
 ![NameProject](Capture1.JPG)
 2. Extended the calculator class to the Application class
@@ -30,7 +30,7 @@
 #####      *
 #####      * @author Santhosh Bonala
 #####      */
-#####      public class Calculator extends Application {
+#####      public class CalculatorJavaFX extends Application {
 
 #####         // Declare a variable of type Label to display result
 #####         private Label reslabel;
